@@ -25,7 +25,7 @@ int main()
 
 {
     Student Rahim = fun();
-    cout << Rahim.name<<endl;
+    cout << Rahim.name<< " " << Rahim.cls << endl;
     
 
     return 0;
